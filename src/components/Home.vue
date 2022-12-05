@@ -1,8 +1,9 @@
 <template>
-    <h1>Hoome</h1>
+    <h1>Home</h1>
 </template>
+
 <script>
-export default {
-    name : 'Home',
+export default{
+    name: 'Home',
 }
 </script>
